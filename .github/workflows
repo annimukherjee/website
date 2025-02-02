@@ -1,0 +1,9 @@
+name: IITMTDS
+
+on: push
+
+jobs:
+  test:
+    steps:
+      - name: 23f1003186@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
